@@ -1,4 +1,9 @@
 Example text. Mars is a red planet. 
 
+<<<<<<< HEAD
 The next planet is Jupiter.The last planet is Pluto.Jupiter is the bigest 
 planet.
+=======
+The next planet is Jupiter.The last planet is Pluto.
+I'M SO AWESOME AT MAKING CHANGES IT'S SCARY
+>>>>>>> a13c36a64de5420544f6c7cbf6e97c8f6b0071b3
